@@ -15,5 +15,8 @@ namespace SwingWebService
         [OperationContract]
         string GetData(int value);
 
+        [OperationContract]
+        string Bla();
+
     }
 }
