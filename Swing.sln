@@ -7,6 +7,8 @@ Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Swing", "Swing\Swing.ccproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwingWebService", "SwingWebService\SwingWebService.csproj", "{3C7B2EB9-AE28-4442-94B1-5F1731D04047}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwingWebExperience", "SwingWebExperience\SwingWebExperience.csproj", "{C0764822-A4AA-448E-A809-2152DA09BF58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3C7B2EB9-AE28-4442-94B1-5F1731D04047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C7B2EB9-AE28-4442-94B1-5F1731D04047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C7B2EB9-AE28-4442-94B1-5F1731D04047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0764822-A4AA-448E-A809-2152DA09BF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0764822-A4AA-448E-A809-2152DA09BF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0764822-A4AA-448E-A809-2152DA09BF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0764822-A4AA-448E-A809-2152DA09BF58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
